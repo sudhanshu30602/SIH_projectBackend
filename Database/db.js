@@ -1,6 +1,7 @@
 // username - vmourya350
 // password - UkeK13DBDoXTiYnj
-
+// dbuser
+// 13YQrCILf8xzPX1m
 // const uri = 'mongodb+srv://vmourya350:UkeK13DBDoXTiYnj@cluster0.yur5rgf.mongodb.net/?retryWrites=true&w=majority';
 
 // db.js
